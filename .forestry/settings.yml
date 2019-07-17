@@ -7,8 +7,8 @@ sections:
 - type: directory
   path: ''
   label: Pages
-  create: documents
-  match: docs/**/*.md
+  create: all
+  match: "**/*.md"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
