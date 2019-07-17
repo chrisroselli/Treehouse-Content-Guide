@@ -1,4 +1,18 @@
 ---
 label: Docs
 hide_body: false
-fields: []
+fields:
+- name: header
+  type: text
+  config:
+    required: true
+  label: Header
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Body
