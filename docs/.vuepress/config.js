@@ -4,4 +4,4 @@ module.exports = {
   themeConfig: {
     displayAllHeaders: true 
   }
-}
+} 
