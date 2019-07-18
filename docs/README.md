@@ -1,5 +1,6 @@
 ---
 home: false
+title: README
 
 ---
-# Say what?
+# Say what now
