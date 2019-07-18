@@ -8,6 +8,3 @@ fields:
     required: true
   label: Title
   hidden: false
-pages:
-- docs/page.md
-- docs/testing.md
