@@ -9,7 +9,7 @@ sections:
   label: Docs
   create: all
   match: "*.md"
-  new_doc_ext: ".html"
+  new_doc_ext: html
   templates:
   - doc
 upload_dir: uploads
