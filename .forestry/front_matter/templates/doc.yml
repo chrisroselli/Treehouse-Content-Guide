@@ -7,5 +7,3 @@ fields:
   config:
     required: true
   label: Title
-pages:
-- docs/add-new-page.md
