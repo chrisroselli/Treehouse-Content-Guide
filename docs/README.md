@@ -1,6 +1,8 @@
 ---
 home: false
-title: README
+title: Welcome
 
 ---
-# Say what now
+# Welcome
+
+Welcome to the Treehouse Content Guide.
