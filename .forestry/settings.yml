@@ -9,7 +9,7 @@ sections:
   label: Docs
   create: documents
   match: "**/*"
-  exclude: ".vuepress"
+  exclude: "\\.vuepress"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
