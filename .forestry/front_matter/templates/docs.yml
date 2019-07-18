@@ -9,5 +9,5 @@ fields:
   label: Title
   hidden: false
 pages:
-- docs/testing.md
 - docs/page.md
+- docs/testing.md
