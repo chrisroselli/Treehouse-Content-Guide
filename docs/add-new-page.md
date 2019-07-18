@@ -1,4 +1,0 @@
----
-title: Add New Page
-
----
